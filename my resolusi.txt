@@ -1,5 +1,5 @@
-Saya ingin belajar programinglebih giat lagi
+Saya ingin belajar programing lebih giat lagi
  -javascript
  -Php
- -phyton
  -java
+ -ruby
