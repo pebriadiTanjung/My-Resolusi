@@ -2,3 +2,5 @@ Saya ingin belajar programinglebih giat lagi
  -javascript
  -Php
  -mysql
+ -phyton
+ -java
