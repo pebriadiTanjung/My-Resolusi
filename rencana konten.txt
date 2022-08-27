@@ -1,8 +1,9 @@
 Rencana Konten saya
  - Javascript
-     -angular
-     -react
+     react
+     vue
  - PhP framework
+ -laravel
  - interview
  - vlogs
 
