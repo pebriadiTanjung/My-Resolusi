@@ -1,7 +1,8 @@
 Rencana Konten saya
  - Javascript
      -angular
+     -react
  - PhP framework
  - interview
  - vlogs
- - mysql
+
