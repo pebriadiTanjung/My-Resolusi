@@ -4,3 +4,4 @@ Rencana Konten saya
  - PhP framework
  - interview
  - vlogs
+ - mysql
