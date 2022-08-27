@@ -1,5 +1,6 @@
 Rencana Konten saya
  - Javascript
+     -angular
  - PhP framework
  - interview
  - vlogs
